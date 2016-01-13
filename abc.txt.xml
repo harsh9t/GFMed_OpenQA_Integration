@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataset id="qald-4_biomedical_train">
+<question id="1">
+<string lang="en"><![CDATA[What are the diseases caused by Valdecoxib?]]></string>
+<query><![CDATA[select distinct ?eff where { ?c a <http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseases> . ?c <http://www.w3.org/2002/07/owl#sameAs> ?eff . ?siderdrug <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00580> . ?siderdrug <http://www4.wiwiss.fu-berlin.de/sider/resource/sider/sideEffect> ?eff }]]></query>
+</question>
+<question id="2">
+<string lang="en"><![CDATA[What are the diseases caused by Valdecoxib?]]></string>
+<query><![CDATA[select distinct ?eff where { ?c a <http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseases> . ?c <http://www.w3.org/2002/07/owl#sameAs> ?eff . ?siderdrug <http://www.w3.org/2002/07/owl#sameAs> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00580> . ?siderdrug <http://www4.wiwiss.fu-berlin.de/sider/resource/sider/sideEffect> ?eff }]]></query>
+</question>
+</dataset>

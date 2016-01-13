@@ -1,0 +1,377 @@
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:35:38 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query 
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:35:38 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 15
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:36:01 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query 
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:36:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 4
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:38:53 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 16
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:38:53 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:39:54 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query piss
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:39:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 3
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:40:23 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 5
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:40:23 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 22
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:47:45 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:47:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:48:54 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:48:54 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 5
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:49:46 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 16
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:49:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:56:48 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 16
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:56:48 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:58:04 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:58:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 18
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:58:13 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query hi
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:58:13 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 15
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:58:45 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:58:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+22:58:55 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+22:58:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 4
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:16:31 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:16:31 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:17:36 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 4
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 2
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:17:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:18:07 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:18:07 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 15
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:18:42 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:18:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 15
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:19:39 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:19:39 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 5
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:21:55 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 0
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:21:55 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 6
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:24:03 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 16
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 1
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:24:03 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 16
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:28:52 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 2
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:28:52 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 10
+23:31:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:31:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:31:46 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query how r u?
+23:31:46 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 4199
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:31:50 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 4214
+23:34:09 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:34:09 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:34:09 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:34:09 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 1424
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:34:11 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 1427
+23:34:35 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:34:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:34:36 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:34:36 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 1423
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:34:37 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 1425
+23:38:18 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:38:18 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:38:18 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:38:18 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 1456
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:38:19 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 1467
+23:45:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:45:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:45:01 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:45:01 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 2809
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:45:04 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 2815
+23:46:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:46:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:46:42 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:46:42 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 1390
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:46:44 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 1407
+23:50:41 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:50:41 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:50:41 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:50:41 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 3706
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:50:45 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 3718
+23:51:30 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Deploying existing PAR files...
+23:51:30 13 Dec 2015 - [main] DEBUG org.aksw.openqa.manager.plugin.PluginManager  - Loading plug-ins...
+23:51:30 13 Dec 2015 - [main] INFO  org.aksw.openqa.AnswerFormulation  - Processing query qald-4_biomedical_train.xml
+23:51:30 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of interpretations: 1
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Interpreting runtime: 2025
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieving
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of retrieved results: 0
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Retrieval runtime: 0
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesizing
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Number of synthesis: 0
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Synthesis runtime: 0
+23:51:32 13 Dec 2015 - [main] DEBUG org.aksw.openqa.AnswerFormulation  - Answer formulation Runtime(ms) 2025

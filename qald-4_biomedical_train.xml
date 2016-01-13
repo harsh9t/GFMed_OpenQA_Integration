@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<dataset id="qald-4_biomedical_test">
+
+<question id="1">
+<string lang="en"><![CDATA[What are the diseases caused by Valdecoxib?]]></string>
+</question>
+</dataset>
